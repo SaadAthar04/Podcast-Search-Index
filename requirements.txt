@@ -1,0 +1,7 @@
+streamlit
+openai-whisper
+openai
+numpy
+requests
+ffmpeg-python
+pydub
