@@ -59,13 +59,15 @@ These are the softwares you need to install before getting started:
 ## Podcast Search & Indexing Tool | Snapshots
 
 ### 🔹 **Upload Podcast & Transcribe**
-![Upload Podcast](https://github.com/user-attachments/assets/fake-upload.png)
+![image](https://github.com/user-attachments/assets/34524107-f6f1-4e50-9233-0923393bb483)
 
 ### 🔹 **View Full Transcription**
-![Transcription](https://github.com/user-attachments/assets/fake-transcription.png)
+![image](https://github.com/user-attachments/assets/ce6ead85-1c06-4d88-a97f-772b79a85f76)
+
 
 ### 🔹 **Keyword Search & Results**
-![Search](https://github.com/user-attachments/assets/fake-search.png)
+![image](https://github.com/user-attachments/assets/81f7d9ff-84dc-41c5-8552-8381d5910ec7)
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
